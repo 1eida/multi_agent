@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "four-agent-method"
+version = "0.1.0"
+description = "A task-local, evidence-driven four-agent workflow"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {file = "LICENSE"}
+authors = [{name = "Biomedical Multi-Agent Collaboration contributors"}]
+dependencies = []
+
+[project.optional-dependencies]
+openai = ["openai>=1.30"]
+test = ["jsonschema>=4.18"]
+
+[tool.setuptools]
+packages = ["multi_agent"]

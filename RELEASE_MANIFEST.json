@@ -1,0 +1,79 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "source": "release-authored content in tools/sync_from_source.py",
+      "sha256": "4317f6c4ca7b1bd644b19617fe4883dff3e2a208f2fc61de5917188b5e57ebea"
+    },
+    {
+      "path": "LICENSE",
+      "source": "release-authored content in tools/sync_from_source.py",
+      "sha256": "f4b7ca517221b146497a85a84340971c5bab808bdedbcbcaa3e160ba07fd1ea4"
+    },
+    {
+      "path": "README.md",
+      "source": "release-authored content in tools/sync_from_source.py",
+      "sha256": "0ea956fc1f23e2108c5da78a85af8dfc437b01cd3df9d9d50b26c27f3c76ff51"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "source": "system/ARCHITECTURE.md",
+      "sha256": "d3b3726156c0549e8c62700a65a016a799421d587d7b2c674248cffe9405b953"
+    },
+    {
+      "path": "examples/scripted_demo.py",
+      "source": "release-authored content in tools/sync_from_source.py",
+      "sha256": "38f2efdb3a570ec038b353d118a7d3a36674419bd289cd5eb02a2f2387f442ca"
+    },
+    {
+      "path": "multi_agent/__init__.py",
+      "source": "system/__init__.py + vendored interfaces",
+      "sha256": "b3ddece263f7dcf3ec21cd3feb07892089fae2c3d0691ac198ac60d97b9cf711"
+    },
+    {
+      "path": "multi_agent/agents.py",
+      "source": "system/agents.py",
+      "sha256": "62088aa37f3c294c0a558547bef4986522e142d255d22aed7c07ac2f96aa6661"
+    },
+    {
+      "path": "multi_agent/common.py",
+      "source": "method/common.py (minimal vendored interfaces)",
+      "sha256": "b1a5e9f3bcd42aeda1b0653d2739436dc8c515f3bc13bfc5d5039f78142027e4"
+    },
+    {
+      "path": "multi_agent/ledger.py",
+      "source": "system/ledger.py",
+      "sha256": "7899246e46ee26a0577f4b96bc68aa56ab4d7072dcedf8055647012f26362d7e"
+    },
+    {
+      "path": "multi_agent/prompts.py",
+      "source": "system/prompts.py",
+      "sha256": "103bce1213abbc043b131de414bf9e4608b2f6e5cd50a6abfb3b5d1aa814c947"
+    },
+    {
+      "path": "multi_agent/workflow.py",
+      "source": "system/workflow.py",
+      "sha256": "1d86ad12dbfe66fd19042af164bc630846d2ff58266eddac5b857c1e498a07be"
+    },
+    {
+      "path": "pyproject.toml",
+      "source": "release-authored content in tools/sync_from_source.py",
+      "sha256": "4151f00ee9f39bef30cde8630b795cf82d522201fe16703b2f028a3caef25f40"
+    },
+    {
+      "path": "tests/__init__.py",
+      "source": "release-authored test package marker",
+      "sha256": "9dc790cf7c20652fc58ed454675488524193d20e8fd2b8419769745660dd4f74"
+    },
+    {
+      "path": "tests/test_system.py",
+      "source": "system/test_system.py",
+      "sha256": "00a474a267c16d7a13333bf11fffbc397a75e663c6479802ba4cce6df487af2c"
+    },
+    {
+      "path": "tools/sync_from_source.py",
+      "source": "tools/sync_from_source.py",
+      "sha256": "7cb877439ca0bbf670be0231516d79023b2cb2a3b26167f2ecc6239e8ac760f1"
+    }
+  ]
+}
